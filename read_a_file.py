@@ -2,7 +2,6 @@ with open("test.txt") as file:
   print(file.read())
 
 # with exception handling
-
 try:
   with open("text.tx") as file:
     print(file.read())
