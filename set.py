@@ -1,8 +1,5 @@
 # set = collection which is unordered, unindexed. No duplicate values
 
-from re import U
-
-
 utensils = {"fork", "knife", "spoon"}
 dishes = {"bowl", "plate", "cup", "knife"}
 
