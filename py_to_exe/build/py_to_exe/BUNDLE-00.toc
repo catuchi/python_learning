@@ -1,0 +1,3 @@
+([('py_to_exe',
+   '/Users/catuchi/lighthouse/python/tutorial/py_to_exe/dist/py_to_exe',
+   'EXECUTABLE')],)

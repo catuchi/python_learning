@@ -5,8 +5,8 @@ from tkinter import *
 count = 0
 
 def click():
-  global count   
-  count+=1                   #list variable as global
+  global count      #list variable as global
+  count+=1
   print(count)
 
 window = Tk()
